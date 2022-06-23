@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Gugi&family=Lato:wght@100&family=Roboto:wght@100&family=Sofia&display=swap');
+body{
+    background-color: #121212;
+}
+.h1{
+    color: #ffffff;
+    
+}
+.carousel-control-prev-icon {
+    width: 32px;
+    height: 32px;
+}
+.carousel-control-next-icon {
+    width: 32px;
+    height: 32px;
+}
